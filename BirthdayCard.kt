@@ -1,7 +1,7 @@
 package com.example.happybirthday
 
 import android.os.Bundle
-import androidx.activity.ComponentActivitynhập androidx.activity.ComponentActivity
+import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -17,6 +17,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.happybirthday.ui.theme.HappyBirthdayTheme
+
 
 
 class MainActivity : ComponentActivity() {
